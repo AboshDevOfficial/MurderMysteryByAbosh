@@ -1,0 +1,8 @@
+---
+name: MurderMysteryAbosh
+author: abosh
+description: A magnific MurderMysteryAbosh plugin
+version: 1.0.0
+main: IvanCraft623\MurderMystery\Murder
+api: 3.0.0
+...
